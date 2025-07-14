@@ -10,10 +10,10 @@ I am a Full Stack .NET Developer with over 6 years of experience building secure
 ---
 
 ### 🤔 Talking about Personal Stuffs:
-- [cite_start]🏢 I'm currently working as a Full Stack .NET Developer for the **State of California**[cite: 24].
-- [cite_start]🚀 I’m currently learning more about advanced **cloud-native deployments** and **zero trust security** principles[cite: 7, 21].
+- 🏢 I'm currently working as a Full Stack .NET Developer for the **State of California**.
+- 🚀 I’m currently learning more about advanced **cloud-native deployments** and **zero trust security** principles.
 - 👨‍💻 You can see my pinned projects below, which demonstrate my skills.
-- [cite_start]⚡ Fun fact: I enjoy optimizing application performance—in one role, I increased page load speed by 35% and system throughput by 40%[cite: 27, 42].
+- ⚡ Fun fact: I enjoy optimizing application performance—in one role, I increased page load speed by 35% and system throughput by 40%.
 
 ---
 
