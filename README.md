@@ -5,7 +5,7 @@ Hi 👋, I'm Sai Krishna
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4dTNrYnN2dXZoY2NqdXU2bzdtZXVpd2Y0bnN2cG5kb3N1OGw0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 
-[cite_start]I am a Full Stack .NET Developer with over 6 years of experience building secure and scalable enterprise applications for the finance, insurance, and healthcare industries[cite: 5]. [cite_start]I'm passionate about turning complex requirements into user-friendly applications and mentoring team members[cite: 10]. [cite_start]I thrive on designing clean architecture and automating development pipelines to improve performance and quality[cite: 7, 8].
+I am a Full Stack .NET Developer with over 6 years of experience building secure and scalable enterprise applications for the finance, insurance, and healthcare industries[cite: 5]. [cite_start]I'm passionate about turning complex requirements into user-friendly applications and mentoring team members[cite: 10]. [cite_start]I thrive on designing clean architecture and automating development pipelines to improve performance and quality[cite: 7, 8].
 
 ---
 
