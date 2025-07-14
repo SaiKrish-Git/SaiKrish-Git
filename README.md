@@ -79,13 +79,13 @@ I am a Full Stack .NET Developer with over 6 years of experience building secure
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna-dev-full&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sai Krishna's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiKrish-Git&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="SaiKrish-Git's GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-krishna-dev-full&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKrish-Git&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-krishna-dev-full&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKrish-Git&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/sai-krishna-dev-full/count.svg" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/SaiKrish-Git/count.svg" alt="Profile views" />
 </p>
